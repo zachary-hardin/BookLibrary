@@ -34,3 +34,5 @@
 \\Mac\Home\Documents\Visual Studio 2013\Projects\Library\BookService\BookService\obj\Debug\BookService.csprojResolveAssemblyReference.cache
 \\Mac\Home\Documents\Visual Studio 2013\Projects\Library\BookService\BookService\obj\Debug\BookService.dll
 \\Mac\Home\Documents\Visual Studio 2013\Projects\Library\BookService\BookService\obj\Debug\BookService.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Library\BookService\BookService\obj\Debug\BookService.Migrations.Initial.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\Library\BookService\BookService\obj\Debug\BookService.csproj.GenerateResource.Cache
